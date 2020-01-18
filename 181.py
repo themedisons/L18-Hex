@@ -1,6 +1,6 @@
 # Fails : 181.py
-# Autors : Sandis Mālnieks
-# Apliecības numurs : 193RIC058
+# Autors : Raivis Medvedevs
+# Apliecības numurs : 193NEB004 NEMB0
 # Datums 13.01.2019
 # Sagatave funkcijas līknes, abscisu un intervāla robežu veidotā laukuma meklēšanai ar taisnstūru metodi
 # -* - c o d i n g : utf -8 -* -
