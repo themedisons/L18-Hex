@@ -1,5 +1,5 @@
 // 181.c Sagatave funkcijas integrēšanai ar taisnstūru metodi
-// Sandis Mālnieks 193RIC058
+// Raivis Medvedevs 193NEB004 NEMB0
 
 #include <stdio.h>
 #include <math.h>
